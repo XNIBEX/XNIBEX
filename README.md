@@ -21,7 +21,7 @@
 
 ---
 
-- 🔭 Actualmente concluyendo mi tesis sobre **Dosimetría Vocal y monitorización ambiental para apoyar a fonoaudiólogos en la prevención de trastornos de la voz**.  
+- 🔭 Actualmente concluyendo mi tesis sobre **Dosimetría Vocal y Monitorización Ambiental para apoyar a fonoaudiólogos en la prevención de trastornos de la voz**.  
 - ⚡ Me interesa el desarrollo de **software**, **análisis de datos**, e integración de **sensores con microcontroladores**.  
 - 💬 Pregúntame sobre experiencias con **Python, Django, microcontroladores e IoT**.  
 - 🌱 Profundizando en **Análisis de datos** y **sistemas distribuidos**.  
