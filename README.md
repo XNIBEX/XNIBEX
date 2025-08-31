@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/XNI-BEX" align="center">
-    <img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=XNI-BEX.XNI-BEX">
+    <img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=XNIBEX.XNIBEX">
   </a>
 </p>
 
