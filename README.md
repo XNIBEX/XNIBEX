@@ -21,7 +21,7 @@
 
 ---
 
-- 🔭 Actualmente concluyendo mi tesis sobre **Dosimetría Vocal y Monitorización Ambiental para apoyar a fonoaudiólogos en la prevención de trastornos de la voz**.  
+- 🔭 Actualmente concluyendo mi Proyecto de título sobre **Dosimetría Vocal y Monitorización Ambiental para facilitar el análisis e identificación de posibles patrones en patologías asociadas a la voz**.  
 - ⚡ Me interesa el desarrollo de **software**, **análisis de datos**, e integración de **sensores con microcontroladores**.  
 - 💬 Pregúntame sobre experiencias con **Python, Django, microcontroladores e IoT**.  
 - 🌱 Profundizando en **Análisis de datos** y **sistemas distribuidos**.  
@@ -40,14 +40,22 @@
 #### 🖥️ Librerías & Frameworks
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### 🔧 Herramientas & DevOps
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+
+#### 🔧 Herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
@@ -76,6 +84,3 @@
 <h6 align="center">👇🏻 Aquí encontrarás algunos de mis proyectos destacados 👇🏻</h6>
 
 ------
-
-✨ Credit: Adaptado del perfil de [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)  
-📝 Last Edited on: 31/08/2025
