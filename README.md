@@ -24,7 +24,7 @@
 - 🔭 Actualmente he terminado mi Proyecto de título sobre **Dosimetría Vocal y Monitorización Ambiental para facilitar el análisis e identificación de posibles patrones en patologías asociadas a la voz**.  
 - ⚡ Me interesa el desarrollo de **software**, **análisis de datos** e integración de **sensores con microcontroladores**.  
 - 💬 Pregúntame sobre experiencias con **Python, microcontroladores e IoT**.  
-- 🌱 Profundizando en **ciencias de datos**, **MCP** e integración de **LLMs**.  
+- 🌱 Profundizando en **ciencia de datos**, **MCP** e integración de **LLMs**.  
 
 ---
 
